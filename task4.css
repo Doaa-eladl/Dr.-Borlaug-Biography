@@ -1,0 +1,78 @@
+body{
+    background-color: white;
+}
+
+.mainpage{
+    background-color: rgb(235, 235, 235);
+    margin: 10px;
+    padding: 5px;
+}
+
+h1{
+    color: #464444;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.paragraphsstyle{
+    color: #464444;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 10px;
+    font-family:sans-serif;
+    font-weight: 100;
+}
+
+.nermansection{
+    background-color: white; 
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.nermanphoto{
+    max-width: 100%;
+    margin: 20px;
+    height: auto;
+}
+
+h2{
+    color: #464444;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.hislife{
+    margin: 0 auto 50px auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    max-width: 550px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+strong{
+    font-weight: bold;
+}
+
+li{
+    margin: 16px 0;
+}
+
+.lastinfo{
+    max-width: 580px;
+    line-height: 1.2;
+    text-align: left;
+    margin: 10px auto 20px auto;
+}
+
+.moreinfo{
+    margin: 20px auto 10px auto;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
